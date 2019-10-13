@@ -1,0 +1,22 @@
+body {
+  background-color: white;
+}
+.App {
+  text-align: right;
+}
+.tags {
+  background-color: white;
+  display: inline-flex;
+  text-align: center;
+}
+.a1 {
+  background-color: beige;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-right: 40px;
+  margin: 10px;
+  border: 1px grey solid;
+}
+.a1:hover {
+  background-color: #1a3872;
+  color: yellow;
+}
